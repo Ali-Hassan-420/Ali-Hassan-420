@@ -6,6 +6,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ali-hassan-420/count.svg?"  />
+</div>
+
+###
+
 <h2 align="center">About me</h2>
 
 ###
