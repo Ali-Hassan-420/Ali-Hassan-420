@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">✨ Front-End Developer since 2021<br>📚 I'm currently learning Information Systems<br>🎯 Goals: Get rich lmao<br>🎲 Fun fact: I hate fish</p>
+<p align="center">✨ Front-End Developer since 2021<br>📚 I'm currently learning Information Systems<br>🎯 Goals: [R E D A C T E D]<br>🎲 Fun fact: I hate fish</p>
 
 ###
 
